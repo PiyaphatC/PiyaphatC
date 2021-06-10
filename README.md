@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PiyaphatC
-- 👀 I’m interested in ecohydrological approaching using Deep Learning
+- 👀 I’m interested in ecohydrological-based modeling using Deep Learning
 - 🌱 I’m currently learning Water Resouces engineering at Penn State
 - 📫 How to reach me pmc5570@psu.edu
 
