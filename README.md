@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @PiyaphatC
-- 👀 I’m interested in ecohydrological-based modeling using Deep Learning
-- 🌱 I’m currently learning Water Resouces engineering at Penn State
+- 👋 Hi, I’m Park
+- 👀 I’m interested in ecohydrological-based modeling using Deep Learning and river morphology.
+- 🌱 Currently, I'm a master student at Water Resouces engineering, Penn State.
 - 📫 How to reach me pmc5570@psu.edu
 
 <!---
