@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Park
-- 👀 I’m interested in ecohydrological-based modeling using Deep Learning and river morphology.
+- 👀 I’m interested in data-driven models for river morphology and the natural regime.
 - 🌱 Currently, I'm a master student at Water Resouces engineering, Penn State.
 - 📫 How to reach me pmc5570@psu.edu
 
