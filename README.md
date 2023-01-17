@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Park
 - 👀 I’m interested in data-driven models for river morphology and the natural regime.
-- 🌱 Currently, I'm a master student at Water Resouces engineering, Penn State.
+- A former master student at Water Resouces engineering, Penn State.
+- 🌱 Currently, I'm an ecohydrologist at RID, Thailand.
 - 📫 How to reach me pmc5570@psu.edu
 
 <!---
