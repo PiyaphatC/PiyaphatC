@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Park
-- 👀 I’m interested in data-driven models for river morphology and the natural regime.
+- 👀 I’m interested in data-driven models for river morphology, the natural regime, and sustainable urban development.
 - A former master's student at Water Resouces Engineering, Penn State.
 - 🌱 Currently, I'm an Associate Reseearcher at Chulalongkorn University Transportation Institute, Bangkok Thailand.
 - 📫 How to reach me piyaphat.civilcu@gmail.com or piyaphat.c@chula.ac.th
