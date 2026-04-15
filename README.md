@@ -1,4 +1,4 @@
-# Hi, I'm Park (Piyaphat Chaiwong) 👋
+# Hi, I'm Park (Piyaphat Chaemchuen) 👋
 
 **Associate Researcher** at the Chulalongkorn University Transportation Institute (CUTI), Bangkok.  
 Former M.S. student in Water Resources Engineering at Penn State.
