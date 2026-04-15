@@ -1,6 +1,7 @@
 # Hi, I'm Piyaphat Park Chaemchuen
 
 **Associate Researcher** at the Chulalongkorn University Transportation Institute (CUTI), Bangkok.  
+A Research Fellow and Next-Generation Scholar for the Volvo Research and Educational Foundation, Sweden.
 Former M.S. student in Water Resources Engineering at Penn State.
 
 I work at the intersection of **urban mobility**, **machine learning**, and **climate resilience** — building data-driven tools that help cities plan smarter, more equitable transport systems.
