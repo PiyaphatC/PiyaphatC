@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Researcher](https://img.shields.io/badge/Research Fellow-CUTI%20Chulalongkorn Univ-B22222?style=for-the-badge)](https://www.cuti.chula.ac.th/)
+[![Researcher](https://img.shields.io/badge/Research%20Fellow-CUTI%20Chulalongkorn Univ-B22222?style=for-the-badge)](https://www.cuti.chula.ac.th/)
 [![VREF Fellow](https://img.shields.io/badge/Research%20Fellow-VREF%20Sweden-003087?style=for-the-badge)](https://www.vref.se/)
 [![Penn State](https://img.shields.io/badge/M.S.-Penn%20State%20(Water%20Resources)-1E407C?style=for-the-badge)](https://www.psu.edu/)
 
