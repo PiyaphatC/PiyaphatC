@@ -12,21 +12,21 @@
 
 I work at the intersection of **urban mobility**, **machine learning**, and **climate resilience** — building data-driven tools that help cities plan smarter, more equitable transport systems.
 
-> 🏆 **Next-Generation Scholar** — Volvo Research and Educational Foundations (VREF), Sweden
+> **Next-Generation Scholar** — Volvo Research and Educational Foundations (VREF), Sweden
 
 ---
 
-## 🔬 Research Interests
+##  Research Interests
 
 | Domain | Topics |
 |---|---|
-| 🛵 **Urban Mobility** | Informal & shared transport · Motorcycle taxis (Win) · EV infrastructure |
-| 🌦 **Climate & Hydrology** | Climate impacts on mobility · Ecohydrology with AI · Hydrological modelling |
-| 🗺 **Urban Planning** | Sustainable cities · GTFS / open transport data · Accessibility analysis |
+|  **Urban Mobility** | Informal & shared transport · Motorcycle taxis (Win) · EV infrastructure |
+|  **Climate & Hydrology** | Climate impacts on mobility · Ecohydrology with AI · Hydrological modelling |
+|  **Urban Planning** | Sustainable cities · GTFS / open transport data · Accessibility analysis |
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -48,7 +48,7 @@ I work at the intersection of **urban mobility**, **machine learning**, and **cl
 
 ---
 
-## 📫 Contact
+##  Contact
 
 [![Email](https://img.shields.io/badge/piyaphat.c@chula.ac.th-D14836?style=flat&logo=gmail&logoColor=white)](mailto:piyaphat.c@chula.ac.th)
 [![Alt Email](https://img.shields.io/badge/piyaphat.civilcu@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:piyaphat.civilcu@gmail.com)
