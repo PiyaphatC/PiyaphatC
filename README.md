@@ -1,4 +1,4 @@
-# Hi, I'm Piyaphat (Park) Chaemchuen 👋
+# Hi, I'm Piyaphat (Park) Chaemchuen 
 
 <div align="center">
 
