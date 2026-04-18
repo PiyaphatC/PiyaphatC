@@ -40,11 +40,13 @@ I work at the intersection of **urban mobility**, **machine learning**, and **cl
 
 | Repo | Description |
 |---|---|
-| [🛵 moto_dashboard](https://github.com/PiyaphatC/moto_dashboard) | Interactive dashboard for Bangkok motorcycle taxi survey (CUTI × Columbia ISM) |
-| [🚇 Transformer_Ridership](https://github.com/PiyaphatC/Transformer_Ridership) | Climate-induced Transformer model for MRT ridership prediction |
-| [♿ Accessible-Public-Transportation-Station](https://github.com/PiyaphatC/Accessible-Public-Transportation-Station) | Accessibility audit of Bangkok transit stations |
-| [⚡ EV-Infrastructure-](https://github.com/PiyaphatC/EV-Infrastructure-) | EV charging infrastructure planning for Bangkok (VREF Living Lab) |
-| [🌊 Erosion_rate_estimator](https://github.com/PiyaphatC/Erosion_rate_estimator) | LSTM model for sediment erosion rate estimation across the CONUS |
+| [moto_dashboard](https://github.com/PiyaphatC/moto_dashboard) | Interactive dashboard for Bangkok motorcycle taxi survey (CUTI × Columbia ISM) |
+| [Transformer_Ridership](https://github.com/PiyaphatC/Transformer_Ridership) | Climate-induced Transformer model for MRT ridership prediction |
+| [Streamflow prediction](https://github.com/PiyaphatC/streamflow_LSTM) | LSTM model for streamflow prediction across the Thailand 25 basins |
+| [Accessible-Public-Transportation-Station](https://github.com/PiyaphatC/Accessible-Public-Transportation-Station) | Accessibility audit of Bangkok transit stations |
+| [EV-Infrastructure-](https://github.com/PiyaphatC/EV-Infrastructure-) | EV charging infrastructure planning for Bangkok (VREF Living Lab) |
+| [Erosion_rate_estimator](https://github.com/PiyaphatC/Erosion_rate_estimator) | LSTM model for sediment erosion rate estimation across the CONUS |
+
 
 ---
 
