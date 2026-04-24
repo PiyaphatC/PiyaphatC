@@ -20,7 +20,7 @@ I work at the intersection of **urban mobility**, **machine learning**, and **cl
 
 | Domain | Topics |
 |---|---|
-|  **Urban Mobility** | Informal & shared transport · Motorcycle taxis (Win) · EV infrastructure |
+|  **Urban Mobility** | Informal & shared transport · Mass Transit Elasticity · EV infrastructure |
 |  **Climate & Hydrology** | Climate impacts on mobility · Ecohydrology with AI · Hydrological modelling |
 |  **Urban Planning** | Sustainable cities · GTFS / open transport data · Accessibility analysis |
 
