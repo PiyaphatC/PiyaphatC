@@ -10,7 +10,7 @@
 
 ---
 
-I work at the intersection of **urban mobility**, **machine learning**, and **climate resilience** — building data-driven tools that help cities plan smarter, more equitable transport systems.
+I work at the intersection of **urban mobility**, **machine learning paired with econometric rigor (OLS, elasticity analysis)**, and **climate resilience** Building data-driven tools for equitable, climate-smart city planning.
 
 > **Next-Generation Scholar** — Volvo Research and Educational Foundations (VREF), Sweden
 
