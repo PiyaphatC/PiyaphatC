@@ -47,6 +47,7 @@ I work at the intersection of **urban mobility**, **machine learning paired with
 | [Accessible-Public-Transportation-Station](https://github.com/PiyaphatC/Accessible-Public-Transportation-Station) | Accessibility audit of Bangkok transit stations |
 | [EV-Infrastructure-](https://github.com/PiyaphatC/EV-Infrastructure-) | EV charging infrastructure planning for Bangkok (VREF Living Lab) |
 | [Erosion_rate_estimator](https://github.com/PiyaphatC/Erosion_rate_estimator) | LSTM model for sediment erosion rate estimation across the CONUS |
+| [bixi-od-prediction](https://github.com/PiyaphatC/bixi-od-prediction) | STGNN for bike-sharing OD matrix prediction (BIXI Montréal, with HEC Montréal) |
 
 
 
